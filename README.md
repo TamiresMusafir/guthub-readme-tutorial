@@ -1,7 +1,7 @@
 # Tutorial: Como criar um README Profissional e Interativo no GitHub
 
-Este repositório é um **guia passo a passo** para criar um README incrível no GitHub usando cards, badges, animações e banners.  
-Vou mostrar **as ferramentas que usei** e como você pode aplicá-las no seu próprio README.
+Este repositório é um guia passo a passo para criar um README incrível no GitHub usando cards, badges, animações e banners.  
+Vou mostrar as ferramentas que usei e como você pode aplicá-las no seu próprio README.
 
 ---
 

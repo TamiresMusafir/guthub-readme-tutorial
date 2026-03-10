@@ -20,6 +20,8 @@ https://github-profile-summary-cards.vercel.app/demo.html
 
         ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SeuUsuario&theme=dark)
 
+OBS: Troque "user" pelo seu nome de usuário!
+
 ---
 
 ## Shields.io Badges

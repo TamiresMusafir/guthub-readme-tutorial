@@ -5,6 +5,11 @@ Vou mostrar as ferramentas que usei e como você pode aplicá-las no seu própri
 
 ---
 
+## Criando o repositório
+
+Crie um repositório com o mesmo nome do seu nome de usuário. Ele vai se tornar um repositório inicial.
+Após isso, crie um Readme.md para começar a personalizar.
+
 ## GitHub Streak Stats
 
 Mostra sua sequência de contribuições no GitHub.
